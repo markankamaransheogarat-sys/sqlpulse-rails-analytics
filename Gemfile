@@ -8,7 +8,7 @@ gem "pg", "~> 1.1"
 gem "puma", ">= 5.0"
 
 # Versioned Merchant & PSP API
-gem "grape", "~> 2.0"
+gem "grape", "~> 4.1"
 gem "grape-entity", "~> 1.0"
 
 # Dry-rb ecosystem (contracts, railway monads, immutable structs)
